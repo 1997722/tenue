@@ -249,7 +249,7 @@ a.tm-text-primary:hover { color:#666666; }
 
 .tm-search-input:focus {
     border-color: #009999;
-    box-shadow: 0 0 0 0.25rem rgb(0, 153, 153, 0.25);
+    box-shadow: 0 0 0 0.25rem rgba(0, 153, 153, 0.25);
 }
 
 .tm-search-input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
