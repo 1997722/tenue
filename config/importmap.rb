@@ -7,5 +7,5 @@ pin "@hotwired/stimulus-loading", to: "stimulus-loading.js", preload: true
 pin_all_from "app/javascript/controllers", under: "controllers"
 pin "popper", to: 'popper.js', preload: true
 pin "bootstrap", to: 'bootstrap.min.js', preload: true
-pin "plugins", to: 'plugins.js'
-pin "test", to: 'test.js'
+# pin "plugins", to: 'plugins.js'
+# pin "test", to: 'test.js'
